@@ -11,7 +11,7 @@ If you do not have a link yet, leave that section as an empty list: []
 */
 
 const studentProfile = {
-  name: "Your Name",
+  name: "Laila Salameh",
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
@@ -27,7 +27,7 @@ const studentProfile = {
   */
   photo: "",
 
-  contact: "Contact information available upon request.",
+  contact: "lailasalameh09@gmail.com",
 
   /*
   RPubs activities:
@@ -39,13 +39,16 @@ const studentProfile = {
   rpubs: [
     {
       title: "Introduction to R",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/lailasalameh/1448486"
     },
     {
       title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
-    }
+      url: "https://rpubs.com/lailasalameh/1447223"
+    },
   ],
+   title: "Exploring TCGA Breast Cancer Clinical Data in Python",
+      url: "https://rpubs.com/lailasalameh/1448473"
+    },
 
   /*
   Final project:
