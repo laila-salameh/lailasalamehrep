@@ -15,7 +15,7 @@ const studentProfile = {
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "Curiosity has always driven my interest in both science and medicine. I enjoy learning how research leads to new discoveries and how those discoveries can improve the lives of patients. Through DREAM-High, I hope to develop skills in computational biology and coding so I can better understand how technology and data are transforming medical research. I look forward to applying these skills to real-world challenges, especially in cancer research, while preparing for a future career as a pediatric emergency medicine physician.",
 
   /*
   Optional photo:
@@ -57,7 +57,7 @@ const studentProfile = {
   */
   finalProject: {
     title: "My DREAM-High Final Project",
-    description: "Write one or two sentences describing your final project.",
+    description: "My project will focus on examining common beliefs and misconceptions about cancer through scientific research. Throughout the project, I will review research articles, analyze evidence, and compare widely held claims with current scientific findings. By doing so, I hope to better understand cancer while helping distinguish accurate, evidence-based information from common misconceptions.",
     url: ""bla
   },
 
