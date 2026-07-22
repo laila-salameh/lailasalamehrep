@@ -58,7 +58,7 @@ const studentProfile = {
   finalProject: {
     title: "My DREAM-High Final Project",
     description: "Write one or two sentences describing your final project.",
-    url: ""
+    url: ""bla
   },
 
   /*
