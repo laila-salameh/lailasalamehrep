@@ -45,16 +45,16 @@ const studentProfile = {
       title: "Finding Patterns with Heatmaps",
       url: "https://rpubs.com/lailasalameh/1447223"
     },
-  ],
-   title: "Exploring TCGA Breast Cancer Clinical Data in Python",
+   {title: "Exploring TCGA Breast Cancer Clinical Data in Python",
       url: "https://rpubs.com/lailasalameh/1448473"
     },
-  {
+    {
       title: "Heat Maps with TCGA Breast Cancer Gene Expression Data",
-      url: "https://rpubs.com/lailasalameh/1447223"
+      url: "https://rpubs.com/lailasalameh/1449812"
     },
-    
+  ],
 
+  
   /*
   Final project:
   This can link to a Google Doc, Google Slides presentation,
@@ -63,7 +63,7 @@ const studentProfile = {
   finalProject: {
     title: "My DREAM-High Final Project",
     description: "My project will focus on examining common beliefs and misconceptions about cancer through scientific research. Throughout the project, I will review research articles, analyze evidence, and compare widely held claims with current scientific findings. By doing so, I hope to better understand cancer while helping distinguish accurate, evidence-based information from common misconceptions.",
-    url: ""bla
+    url: "https://canva.link/cdum3lod7wye3c8"
   },
 
   /*
