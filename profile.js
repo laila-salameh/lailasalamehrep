@@ -49,6 +49,11 @@ const studentProfile = {
    title: "Exploring TCGA Breast Cancer Clinical Data in Python",
       url: "https://rpubs.com/lailasalameh/1448473"
     },
+  {
+      title: "Heat Maps with TCGA Breast Cancer Gene Expression Data",
+      url: "https://rpubs.com/lailasalameh/1447223"
+    },
+    
 
   /*
   Final project:
